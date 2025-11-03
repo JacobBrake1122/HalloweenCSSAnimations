@@ -140,3 +140,81 @@ html:hover .spider {
         transform: translateY(-20px);
     }
 }
+a {
+  background: #f77700;
+  font-family: inherit;
+  padding: 0.6px 1.3em;
+  font-weight: 900;
+  font-size: 25px;
+  border: 3px solid black;
+  border-radius: 0.4em;
+  box-shadow: 0.1em 0.1em;
+  cursor: pointer;
+}
+
+a {
+  background: #f77700;
+  font-family: inherit;
+  padding: 0.6px 1.3em;
+  font-weight: 900;
+  font-size: 25px;
+  border: 3px solid black;
+  border-radius: 0.4em;
+  box-shadow: 0.1em 0.1em;
+  cursor: pointer;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+
+a:hover {
+  transform: translate(-0.05em, -0.05em);
+  box-shadow: 0.15em 0.15em;
+}
+
+a:active {
+  transform: translate(0.05em, 0.05em);
+  box-shadow: 0.05em 0.05em;
+}
+.my-a2 {
+  background: #f77700;
+  font-family: inherit;
+  padding: 0.6px 1.3em;
+  font-weight: 900;
+  font-size: 25px;
+  border: 3px solid black;
+  border-radius: 0.4em;
+  box-shadow: 0.1em 0.1em;
+  cursor: pointer;
+}
+
+.my-a2:hover {
+  transform: translate(-0.05em, -0.05em);
+  box-shadow: 0.15em 0.15em;
+}
+
+.my-a2:active {
+  transform: translate(0.05em, 0.05em);
+  box-shadow: 0.05em 0.05em;
+}
+.my-a3 {
+  background: #f77700;
+  font-family: inherit;
+  padding: 0.6px 1.3em;
+  font-weight: 900;
+  font-size: 25px;
+  border: 3px solid black;
+  border-radius: 0.4em;
+  box-shadow: 0.1em 0.1em;
+  cursor: pointer;
+}
+
+.my-a3:hover {
+  transform: translate(-0.05em, -0.05em);
+  box-shadow: 0.15em 0.15em;
+}
+
+.my-a3:active {
+  transform: translate(0.05em, 0.05em);
+  box-shadow: 0.05em 0.05em;
+}
